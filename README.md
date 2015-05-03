@@ -11,5 +11,5 @@ The spawn point is just outside the only building in the map, which is where the
 The server for Coo is currently not ready yet. Tommy wants to have some YouTubers (such as [Robbaz](http://www.youtube.com/user/Robbaz)) play on the server, so this may be the easiest way. Plus, people who want to play wouldn't have to download anything.
 
 ### Installation
-
-Extract coo.zip to %appdata%/.minecraft/saves (on Windows) or ~/.minecraft/saves (on Linux/Mac), open Minecraft, and select Coo.
+Download the source by cloning or grabbing the latest [release](https://github.com/ethanmad/coo-mc/releases).
+Move the files (extract if you downloaded the zip or tar.gz) to `%appdata%/.minecraft/saves` (on Windows) or `~/.minecraft/saves` (on Linux/Mac), open Minecraft, and select Coo.
